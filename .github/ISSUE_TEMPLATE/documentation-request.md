@@ -1,7 +1,7 @@
 ---
 name: Documentation request
 about: Suggest additional documentation to be added
-title: ''
+title: "[DOC]"
 labels: documentation
 assignees: highesttt
 
